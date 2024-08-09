@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class lecture11Practice {
+public class arrayStringLength {
     public static void main(String[] args) {              //This is a program to take an array of Strings input from the user & find the cumulative (combined) length of all those strings.
 
         Scanner sc=new Scanner(System.in);
